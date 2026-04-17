@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Iman Shekh
 
-<!--
-**imanshekh/imanshekh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BCA student with a strong interest in web development and artificial intelligence. I enjoy learning how websites work and building small projects that solve practical problems.
 
-Here are some ideas to get you started:
+## Skills
+HTML  
+CSS  
+JavaScript  
+PHP  
+MySQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+GitHub  
+VS Code  
+Sublime Text  
+
+## Featured Project
+
+### Futurize – Career Counseling Website
+
+Futurize is a web-based platform I built to help students explore possible career paths based on their interests. The website includes a 14-question MCQ quiz that analyzes responses and suggests fields such as technology, business, creative media, healthcare, education, law, and skilled trades.
+
+The project was built using HTML, CSS, and JavaScript for the interface, while PHP and MySQL handle user login, registration, and data storage.
+
+Repository:
+https://github.com/imanshekh/Futurize-A-career-counseling-Website
+
+## Connect With Me
+LinkedIn: https://www.linkedin.com/in/iman-shekh
