@@ -1,6 +1,6 @@
 # Hi, I'm Iman Shekh
 
-I'm a BCA student with a strong interest in web development and artificial intelligence. I enjoy learning how websites work and building small projects that solve practical problems.
+I'm a MCA student with a strong interest in web development and artificial intelligence. I enjoy learning how websites work and building small projects that solve practical problems.
 
 ## Skills
 HTML  
