@@ -8,6 +8,9 @@ CSS
 JavaScript  
 PHP  
 MySQL  
+Python
+Relational Database Management System
+JAVA
 
 ## Tools
 GitHub  
